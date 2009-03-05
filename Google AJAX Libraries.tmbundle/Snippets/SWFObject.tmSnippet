@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js" type="text/javascript"&gt;&lt;/script&gt;
+$0</string>
+	<key>name</key>
+	<string>SWFObject</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>swfobject</string>
+	<key>uuid</key>
+	<string>8FF8A471-9886-44CA-B090-8B684F590111</string>
+</dict>
+</plist>

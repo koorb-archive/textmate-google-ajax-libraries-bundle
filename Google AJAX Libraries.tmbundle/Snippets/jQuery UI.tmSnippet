@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/jquery-ui.min.js" type="text/javascript"&gt;&lt;/script&gt;
+$0</string>
+	<key>name</key>
+	<string>jQuery UI</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>jqueryui</string>
+	<key>uuid</key>
+	<string>05D07496-BD2E-4A6A-9F87-86BB1DEEFBBC</string>
+</dict>
+</plist>

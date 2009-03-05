@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/dojo/1.2.3/dojo/dojo.xd.js" type="text/javascript"&gt;&lt;/script&gt;
+$0</string>
+	<key>name</key>
+	<string>Dojo</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>dojo</string>
+	<key>uuid</key>
+	<string>3E005299-4B68-43CF-B8D2-B06A786EFB01</string>
+</dict>
+</plist>

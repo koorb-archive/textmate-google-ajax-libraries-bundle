@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js" type="text/javascript"&gt;&lt;/script&gt;
+$0</string>
+	<key>name</key>
+	<string>script.aculo.us</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>scriptaculous</string>
+	<key>uuid</key>
+	<string>B6644F93-0CF5-42BF-BCB9-A5632858A12F</string>
+</dict>
+</plist>

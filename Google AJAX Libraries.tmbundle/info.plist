@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Google AJAX Libraries</string>
+	<key>ordering</key>
+	<array>
+		<string>16507CC9-22FA-430C-9147-76502C7B4025</string>
+		<string>05D07496-BD2E-4A6A-9F87-86BB1DEEFBBC</string>
+		<string>C8A2E3D7-EB8B-4B2E-86D0-9656BD3436C3</string>
+		<string>B6644F93-0CF5-42BF-BCB9-A5632858A12F</string>
+		<string>CBA94391-7E6F-441F-BC23-73BA101936AD</string>
+		<string>3E005299-4B68-43CF-B8D2-B06A786EFB01</string>
+		<string>8FF8A471-9886-44CA-B090-8B684F590111</string>
+		<string>13E7E9F0-8350-4F57-AD68-34B2BEDF57F6</string>
+	</array>
+	<key>uuid</key>
+	<string>D329295C-E7C6-49BC-A1AE-B7ED425CCA09</string>
+</dict>
+</plist>
