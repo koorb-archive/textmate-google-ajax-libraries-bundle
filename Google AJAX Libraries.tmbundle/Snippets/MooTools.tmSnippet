@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/mootools/1.2.1/mootools-yui-compressed.js" type="text/javascript"&gt;&lt;/script&gt;
+	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/mootools/1.3.0/mootools-yui-compressed.js" type="text/javascript"&gt;&lt;/script&gt;
 $0</string>
 	<key>name</key>
 	<string>MooTools</string>
