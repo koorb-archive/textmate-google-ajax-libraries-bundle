@@ -25,4 +25,5 @@ So you type @moo@ and press tab and it gets replaced by @<script src="http://aja
 
 h2. AUTHOR
 
-"Rich Standbrook":http://allthesethoughts.co.uk
+Rich Standbrook "http://allthesethoughts.com":http://allthesethoughts.com
+*Full fat and fresh design from "Milk Media":http://themilkshed.co.uk*
