@@ -25,4 +25,4 @@ So you type @moo@ and press tab and it gets replaced by @<script src="http://aja
 
 h2. AUTHOR
 
-Richard Standbrook "http://richardstandbrook.co.uk":http://richardstandbrook.co.uk
+"Rich Standbrook":http://allthesethoughts.co.uk
