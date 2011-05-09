@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/dojo/1.5/dojo/dojo.xd.js" type="text/javascript"&gt;&lt;/script&gt;
+	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js" type="text/javascript"&gt;&lt;/script&gt;
 $0</string>
 	<key>name</key>
 	<string>Dojo</string>

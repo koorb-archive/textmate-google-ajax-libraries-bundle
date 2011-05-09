@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js" type="text/javascript"&gt;&lt;/script&gt;
+	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js" type="text/javascript"&gt;&lt;/script&gt;
 $0</string>
 	<key>name</key>
 	<string>jQuery UI</string>

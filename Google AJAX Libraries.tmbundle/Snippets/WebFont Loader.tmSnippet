@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/mootools/1.3.2/mootools-yui-compressed.js" type="text/javascript"&gt;&lt;/script&gt;
+	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/webfont/1.0.19/webfont.js" type="text/javascript"&gt;&lt;/script&gt;
 $0</string>
 	<key>name</key>
-	<string>MooTools</string>
+	<string>WebFont Loader</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>moo</string>
+	<string>webfont</string>
 	<key>uuid</key>
-	<string>CBA94391-7E6F-441F-BC23-73BA101936AD</string>
+	<string>B73A3E17-2173-4C7C-9030-B1A6F6EC62B5</string>
 </dict>
 </plist>

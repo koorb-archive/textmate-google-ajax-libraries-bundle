@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/mootools/1.3.2/mootools-yui-compressed.js" type="text/javascript"&gt;&lt;/script&gt;
+	<string>&lt;script src="https://ajax.googleapis.com/ajax/libs/ext-core/3.1.0/ext-core.js" type="text/javascript"&gt;&lt;/script&gt;
 $0</string>
 	<key>name</key>
-	<string>MooTools</string>
+	<string>Ext Core</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>moo</string>
+	<string>extcore</string>
 	<key>uuid</key>
-	<string>CBA94391-7E6F-441F-BC23-73BA101936AD</string>
+	<string>28783FA8-EAB8-4BB7-9559-E7D24477791F</string>
 </dict>
 </plist>
