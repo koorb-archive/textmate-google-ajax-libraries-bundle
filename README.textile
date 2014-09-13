@@ -1,3 +1,5 @@
+h2. As is probably very obvious – this repo is no longer maintained. I now use Sublime Text 3 and gulpjs which renders this behavious obsolete. If you'd like to take it over (!) then please feel free.
+
 h1. Textmate "Google Ajax Libraries" Bundle
 
 This TextMate Bundle adds text expansions for Google AJAX Libraries.
@@ -29,4 +31,3 @@ So you type @moo@ and press tab and it gets replaced by @<script src="http://aja
 h2. AUTHOR
 
 Rich Standbrook "http://allthesethoughts.com":http://allthesethoughts.com
-*Full fat and fresh design from "Milk Media":http://themilkshed.co.uk*
